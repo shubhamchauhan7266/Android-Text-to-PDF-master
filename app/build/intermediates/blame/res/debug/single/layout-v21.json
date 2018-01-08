@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/user/AndroidStudioProjects/Android-Text-to-PDF-master/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/user/.android/build-cache/54eb83eac0b07e0db1400518d9e10379b8b1b31c/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/Android-Text-to-PDF-master/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/user/.android/build-cache/54eb83eac0b07e0db1400518d9e10379b8b1b31c/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/Android-Text-to-PDF-master/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/user/.android/build-cache/54eb83eac0b07e0db1400518d9e10379b8b1b31c/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/Android-Text-to-PDF-master/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/user/.android/build-cache/54eb83eac0b07e0db1400518d9e10379b8b1b31c/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/user/AndroidStudioProjects/Android-Text-to-PDF-master/app/libs/itextpdf-5.3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6707823d598a75eb9959635b72d45dc318714a09">
+        <dex dex="/home/user/AndroidStudioProjects/Android-Text-to-PDF-master/app/build/intermediates/pre-dexed/debug/itextpdf-5.3.3_777669ead64ae22783041af531b9740eb5dc86ba.jar" />
+    </item>
+
+</items>
